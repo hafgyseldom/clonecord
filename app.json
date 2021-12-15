@@ -7,7 +7,7 @@
 	"env": {
 		"TOKEN": {
 			"required": true,
-			"value": "OTA0MDM3NjczMDU5MDkwNTMy.YX1ssQ.dbf-b_0QUHYQvaa9x_E1akCMs0M"
+			"value": "Token"
 		},
 		"PREFIX": {
 			"required": true,
