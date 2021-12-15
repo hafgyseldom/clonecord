@@ -53,6 +53,8 @@ Before you get started, you need [Python](https://python.org) 3.7 or later to ru
 
 ## Heroku
 
+**This is not working. DO not try this. it wont work**
+
 **Deploy to Heroku:**
 
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rekulous/CloneCord-Bot/blob/main)
