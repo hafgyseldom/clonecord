@@ -51,14 +51,6 @@ Before you get started, you need [Python](https://python.org) 3.7 or later to ru
 
 **If the image and container exists, and the container is running, CloneCord is working! Check to see if your bot is working and enjoy!**
 
-## Heroku
-
-**This is not working. DO not try this. it wont work**
-
-**Deploy to Heroku:**
-
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rekulous/CloneCord-Bot/blob/main)
-
 ## Repl.it
 
 You are not able to run this bot on Replit because it cannot install or run GClone in the Shell or Python. Instead, use Heroku or run it on your system.
